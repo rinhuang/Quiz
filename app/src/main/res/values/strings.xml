@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">INFS3634Quiz</string>
+    <string name="trueBtn">True</string>
+    <string name="falseBtn">False</string>
+    <string name="questionTxt">Question</string>
+
+</resources>
